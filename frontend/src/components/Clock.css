@@ -1,0 +1,20 @@
+.btn-primary{
+    background-color: rgb(227, 105, 100) !important;
+    border: none;
+    margin-right: 20px;
+    border-radius: 10% 10%;
+    height: 40px;
+    padding: 7px 7px 7px 7px;
+}
+
+.btn-primary:focus, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: rgb(152, 50, 47) !important;
+}
+
+.start-btn{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(204, 99, 96) !important;
+    font-size: 32px;
+    font-weight: 600;
+}

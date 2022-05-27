@@ -1,0 +1,74 @@
+.fontHeavier{
+    font-weight: 500;
+}
+
+.dropIcon{
+    width: 16px;
+    height: 16px;
+}
+
+.dropdownBtn{
+    background-color: transparent;
+    position: absolute;
+}
+
+.dropdownContent{
+    position: absolute;
+}
+
+.caretIcons{
+    width: 10px;
+    height: 10px;
+}
+
+.estimatedPomodoroInput{
+    width: 40px !important;
+}
+
+.inputCard{
+    width: 90%;
+}
+
+.taskInput{
+    max-width: 95%;
+    height: 6vh;
+    font-size: 2rem !important;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.formWrapper{
+    width: 95%;
+}
+
+label{
+    color: black;
+}
+
+.caretIconBtn{
+    background-color: transparent;
+    border: 1px rgb(182, 182, 182) solid;
+    height: 20px;
+}
+
+.heavier{
+    font-weight: 600;
+    font-family: Arial-Rounded, Arial;
+}
+
+.addTaskBox{
+    border: rgb(171, 171, 171) dashed 5px;
+    background-color: rgb(164, 63, 60);
+    border-radius: 5%;
+    height: 10vh;
+    width: 90%;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: white;
+}
+
+.lineBreak{
+    height: 0.5vh;
+    border: 0.5px white solid;
+    background-color: white;
+}
